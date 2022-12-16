@@ -1,6 +1,6 @@
 #### About Project
 
-This is the homepage design for an edtech startup named "Doubt".
+This is the responsive homepage design for an edtech startup named "Doubt".
 
 #### Tech stack
 
